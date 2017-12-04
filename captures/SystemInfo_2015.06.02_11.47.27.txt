@@ -1,0 +1,90 @@
+Applications Graphics Acceleration Info:
+Uptime: 3976837 Realtime: 10042489
+
+** Graphics info for pid 13846 [com.karthik.app.collegeattendence] **
+
+Recent DisplayList operations
+                        RestoreToCount
+                        DrawRenderNode
+                          DrawRoundRect
+                        Save
+                        ClipRect
+                        Translate
+                        DrawText
+                        RestoreToCount
+                  DrawRenderNode
+                    DrawRenderNode
+                      DrawRenderNode
+                      DrawRenderNode
+                        DrawRenderNode
+                          DrawRoundRect
+                        Save
+                        ClipRect
+                        Translate
+                        DrawText
+                        RestoreToCount
+                        DrawRenderNode
+                          DrawRoundRect
+                        Save
+                        ClipRect
+                        Translate
+                        DrawText
+                        RestoreToCount
+                  RestoreToCount
+        DrawRenderNode
+          DrawRenderNode
+            DrawRect
+          DrawRenderNode
+            DrawRenderNode
+              Save
+              ClipRect
+              DrawText
+              RestoreToCount
+            DrawRenderNode
+              DrawRenderNode
+                DrawRenderNode
+                Save
+                ConcatMatrix
+                Save
+                Save
+                DrawBitmap
+                RestoreToCount
+    RestoreToCount
+  DrawRenderNode
+    DrawRenderNode
+      DrawRect
+RestoreToCount
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache           591948 / 25165824
+  LayerCache             196608 / 16777216 (numLayers = 2)
+  Garbage layers              0
+  Active layers               0
+  RenderBufferCache           0 /  2097152
+  GradientCache            8192 /   524288
+  PathCache              480948 / 10485760
+  TessellationCache        6600 /  1048576
+  TextDropShadowCache         0 /  2097152
+  PatchCache               1344 /   131072
+  FontRenderer 0 A8      524288 /   524288
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total   524288 /   524288
+Other:
+  FboCache                    0 /        0
+Total memory usage:
+  1809928 bytes, 1.73 MB
+
+Profile data in ms:
+
+	com.karthik.app.collegeattendence/com.karthik.app.collegeattendence.MainActivity/android.view.ViewRootImpl@39ab03dc (visibility=0)
+View hierarchy:
+
+  com.karthik.app.collegeattendence/com.karthik.app.collegeattendence.MainActivity/android.view.ViewRootImpl@39ab03dc
+  28 views, 30.39 kB of display lists
+
+
+Total ViewRootImpl: 1
+Total Views:        28
+Total DisplayList:  30.39 kB
+

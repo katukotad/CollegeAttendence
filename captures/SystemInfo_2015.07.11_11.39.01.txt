@@ -1,0 +1,40 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        3f18a327 com.karthik.app.collegeattendence/.MainActivity filter 7a4b66d
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [com.karthik.app.collegeattendence]
+      Signing KeySets: 166
+
+Packages:
+  Package [com.karthik.app.collegeattendence] (12e56a7d):
+    userId=10093 gids=[3003, 1028, 1015]
+    pkg=Package{27609cd8 com.karthik.app.collegeattendence}
+    codePath=/data/app/com.karthik.app.collegeattendence-2
+    resourcePath=/data/app/com.karthik.app.collegeattendence-2
+    legacyNativeLibraryDir=/data/app/com.karthik.app.collegeattendence-2/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=2 targetSdk=21
+    versionName=2.1
+    applicationInfo=ApplicationInfo{365d89d4 com.karthik.app.collegeattendence}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    pkgFlagsEx=[ ]
+    dataDir=/data/data/com.karthik.app.collegeattendence
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2015-07-05 14:52:28
+    firstInstallTime=2015-06-25 07:52:10
+    lastUpdateTime=2015-07-05 14:52:28
+    signatures=PackageSignatures{24fc7792 [38d99563]}
+    permissionsFixed=true haveGids=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0:  installed=true hidden=false stopped=false notLaunched=false enabled=0
+    grantedPermissions:
+      android.permission.READ_PHONE_STATE
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.WRITE_EXTERNAL_STORAGE

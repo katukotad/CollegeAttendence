@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\SecureApplication\.android\build-cache\c76bc58112a0d3dfb25575aba4787e93d761410b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Gurunanak college\CollegeAttendence-OLD\app\build\intermediates\pre-dexed\debug\classes_5cebbfb30ea35ffdfc44d90453ae96b6ebd631e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SecureApplication\.android\build-cache\09e235f12f8ac9399f8b5994abdc0f3196059072\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Gurunanak college\CollegeAttendence-OLD\app\build\intermediates\pre-dexed\debug\classes_5a43b23a0e37772588d6688d6382bc0c5e8123ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Gurunanak college\CollegeAttendence-OLD\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_a8a521a37dce548447726969c6a9fd5b2da298fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SecureApplication\.android\build-cache\09e235f12f8ac9399f8b5994abdc0f3196059072\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Gurunanak college\CollegeAttendence-OLD\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_de64d9fe68268505b8658ef09ac35d6bec97e050.jar" />
+    </item>
+
+</items>

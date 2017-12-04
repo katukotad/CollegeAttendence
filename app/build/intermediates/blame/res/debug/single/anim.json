@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Gurunanak college\\CollegeAttendence-OLD\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\SecureApplication\\.android\\build-cache\\2a67dd0d093977640dd58a4608ac55ca6b5da5ce\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Gurunanak college\\CollegeAttendence-OLD\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\SecureApplication\\.android\\build-cache\\2a67dd0d093977640dd58a4608ac55ca6b5da5ce\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Gurunanak college\\CollegeAttendence-OLD\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\SecureApplication\\.android\\build-cache\\2a67dd0d093977640dd58a4608ac55ca6b5da5ce\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Gurunanak college\\CollegeAttendence-OLD\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\SecureApplication\\.android\\build-cache\\2a67dd0d093977640dd58a4608ac55ca6b5da5ce\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Gurunanak college\\CollegeAttendence-OLD\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\SecureApplication\\.android\\build-cache\\5e6566b7be7781c9d28cd27968689eff161919b0\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Gurunanak college\\CollegeAttendence-OLD\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\SecureApplication\\.android\\build-cache\\5e6566b7be7781c9d28cd27968689eff161919b0\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Gurunanak college\\CollegeAttendence-OLD\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\SecureApplication\\.android\\build-cache\\2a67dd0d093977640dd58a4608ac55ca6b5da5ce\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Gurunanak college\\CollegeAttendence-OLD\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\SecureApplication\\.android\\build-cache\\b84ac0620d359037db9a3f28543328f91d99de65\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Gurunanak college\\CollegeAttendence-OLD\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\SecureApplication\\.android\\build-cache\\b84ac0620d359037db9a3f28543328f91d99de65\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Gurunanak college\\CollegeAttendence-OLD\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\SecureApplication\\.android\\build-cache\\2a67dd0d093977640dd58a4608ac55ca6b5da5ce\\output\\res\\anim\\abc_slide_out_top.xml"
+    }
+]

@@ -1,0 +1,83 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="5dp"
+    android:background="#EEEEEE"
+    tools:context="com.karthik.app.collegeattendence.ClassAttendenceFragment">
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Student Attendance Mark Absentees"
+            android:id="@+id/classAttendanceClassHeadingTextView"
+            android:textSize="14sp"
+            android:gravity="center" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ClassName"
+            android:textSize="14sp"
+            android:id="@+id/classAttendenceClassNmaeTextView"
+            android:gravity="center" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            android:text="Save"
+            android:id="@+id/attendenceFragmentSaveButton"
+            android:layout_column="0"
+            android:background="@drawable/button"/>
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_column="0">
+            <EditText
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/classAttendanceSearchEditText"
+                android:singleLine="true"
+                android:paddingRight="40dp"
+                android:drawableLeft="@drawable/search"/>
+            <ImageView
+                android:id="@+id/classAttendanceSearchClearImageView"
+                android:layout_marginBottom="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/classAttendanceSearchEditText"
+                android:layout_alignBottom="@+id/classAttendanceSearchEditText"
+                android:layout_alignRight="@+id/classAttendanceSearchEditText"
+                android:src="@drawable/clear"
+                android:visibility="invisible"/>
+        </RelativeLayout>
+    </TableRow>
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <ListView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/listView"
+            android:layout_column="0" />
+    </TableRow>
+</TableLayout>

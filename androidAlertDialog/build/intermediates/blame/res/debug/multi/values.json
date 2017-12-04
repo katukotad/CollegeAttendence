@@ -1,0 +1,131 @@
+[
+    {
+        "outputFile": "C:\\Users\\secapp\\AndroidStudioProjects\\CollegeAttendence\\androidAlertDialog\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\secapp\\AndroidStudioProjects\\CollegeAttendence\\androidAlertDialog\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endColumn": 55,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 67,
+                    "endOffset": 174
+                },
+                "from": {
+                    "file": "C:\\Users\\secapp\\AndroidStudioProjects\\CollegeAttendence\\androidAlertDialog\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 67,
+                        "endOffset": 118
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Gurunanak college\\CollegeAttendence-OLD\\androidAlertDialog\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "D:\\Gurunanak college\\CollegeAttendence-OLD\\androidAlertDialog\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endColumn": 55,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 67,
+                    "endOffset": 174
+                },
+                "from": {
+                    "file": "D:\\Gurunanak college\\CollegeAttendence-OLD\\androidAlertDialog\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 67,
+                        "endOffset": 118
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\backup\\Android secure projects\\Gurunanak college\\CollegeAttendence-OLD\\androidAlertDialog\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "D:\\backup\\Android secure projects\\Gurunanak college\\CollegeAttendence-OLD\\androidAlertDialog\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endColumn": 55,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 67,
+                    "endOffset": 174
+                },
+                "from": {
+                    "file": "D:\\backup\\Android secure projects\\Gurunanak college\\CollegeAttendence-OLD\\androidAlertDialog\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 67,
+                        "endOffset": 118
+                    }
+                }
+            }
+        ]
+    }
+]

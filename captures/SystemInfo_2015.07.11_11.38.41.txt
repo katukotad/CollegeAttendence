@@ -1,0 +1,61 @@
+TASK com.karthik.app.collegeattendence id=651
+  ACTIVITY com.karthik.app.collegeattendence/.MainActivity 714d01f pid=11704
+    Local FragmentActivity 1e00228e State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    Active Fragments in 397b90fd:
+      #0: DashboardFragment{7801f2 #0 id=0x7f0d003f}
+        mFragmentId=#7f0d003f mContainerId=#7f0d003f mTag=null
+        mState=5 mIndex=0 mWho=android:fragment:0 mBackStackNesting=0
+        mAdded=true mRemoving=false mResumed=true mFromLayout=false mInLayout=false
+        mHidden=false mDetached=false mMenuVisible=true mHasMenu=false
+        mRetainInstance=false mRetaining=false mUserVisibleHint=true
+        mFragmentManager=FragmentManager{397b90fd in MainActivity{1e00228e}}
+        mActivity=com.karthik.app.collegeattendence.MainActivity@1e00228e
+        mContainer=android.widget.RelativeLayout{8168d0e V.E..... ........ 0,0-480,678 #7f0d003f app:id/fragmentholder}
+        mView=android.support.v4.app.NoSaveStateFrameLayout{29116873 V.E..... ........ 0,0-480,678}
+        mInnerView=android.support.v4.app.NoSaveStateFrameLayout{29116873 V.E..... ........ 0,0-480,678}
+        Child FragmentManager{36dcc043 in DashboardFragment{7801f2}}:
+          FragmentManager misc state:
+            mActivity=com.karthik.app.collegeattendence.MainActivity@1e00228e
+            mContainer=android.support.v4.app.Fragment$1@156476c0
+            mParent=DashboardFragment{7801f2 #0 id=0x7f0d003f}
+            mCurState=5 mStateSaved=false mDestroyed=false
+    Added Fragments:
+      #0: DashboardFragment{7801f2 #0 id=0x7f0d003f}
+    FragmentManager misc state:
+      mActivity=com.karthik.app.collegeattendence.MainActivity@1e00228e
+      mContainer=android.support.v4.app.FragmentActivity$2@10753ff9
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{3232f512 V.E..... ... 0,0-480,800}
+        android.widget.LinearLayout{b936ee0 V.E..... ... 0,0-480,800}
+          android.view.ViewStub{3acea599 G.E..... ... 0,0-0,0 #102036e}
+          android.widget.FrameLayout{2dc7505e V.E..... ... 0,38-480,800}
+            android.support.v7.internal.widget.ActionBarOverlayLayout{7b4146a V.E..... ... 0,0-480,762 #7f0d002f app:id/decor_content_parent}
+              android.support.v7.internal.widget.NativeActionModeAwareLayout{101439f8 V.E..... ... 0,84-480,762 #1020002 android:id/content}
+                android.widget.RelativeLayout{8168d0e V.E..... ... 0,0-480,678 #7f0d003f app:id/fragmentholder}
+                  android.support.v4.app.NoSaveStateFrameLayout{29116873 V.E..... ... 0,0-480,678}
+                    android.widget.ScrollView{3ded03d2 VFED.V.. ... 0,0-480,678}
+                      android.widget.RelativeLayout{1bf01359 V.E..... ... 0,0-480,612}
+                        android.widget.LinearLayout{1af38b1e V.E..... ... 0,0-480,612}
+                          android.widget.TableLayout{25498fff V.E..... ... 8,8-472,604}
+                            android.widget.TableRow{3d058c15 V.E..... ... 24,24-440,180}
+                              android.widget.RelativeLayout{19493b2a V.E..... ... 0,0-422,156}
+                                android.widget.ImageView{b12d1b V.ED.... ... 0,0-405,156 #7f0d004a app:id/dashboardFragmantLogoImageView}
+                                android.widget.TextView{32bfd491 V.ED.... ... 0,127-422,156 #7f0d004b app:id/dashboardFragmantUserNameTextView}
+                            android.widget.TableRow{797dff6 V.E..... ... 24,180-440,376}
+                              android.widget.GridLayout{302b7ff7 V.E..... ... 0,0-422,196}
+                                android.widget.Button{338cee64 VFED..C. ... 8,8-203,188 #7f0d004c app:id/button}
+                                android.widget.Button{3922a485 VFED..C. ... 219,8-414,188 #7f0d004d app:id/button2}
+                            android.widget.TableRow{29b5df3d V.E..... ... 24,376-440,572}
+                              android.widget.GridLayout{12a2d332 V.E..... ... 0,0-422,196}
+                                android.widget.Button{16595883 VFED..C. ... 8,8-203,188 #7f0d004e app:id/button3}
+                                android.widget.Button{18d354fb VFED..C. ... 219,8-414,188 #7f0d004f app:id/button4}
+              android.support.v7.internal.widget.ActionBarContainer{10166ed1 V.ED.... ... 0,0-480,84 #7f0d0030 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{35f70d36 V.E..... ... 0,0-480,84 #7f0d0031 app:id/action_bar}
+                  android.widget.TextView{62eb330 V.ED.... ... 24,21-291,62}
+                  android.support.v7.widget.ActionMenuView{3add7bb7 V.E..... ... 426,0-480,84}
+                    android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton{32899f24 VFED..C. ... 0,6-54,78}
+                android.support.v7.internal.widget.ActionBarContextView{2fc2270d G.E..... ... 0,0-0,0 #7f0d0032 app:id/action_context_bar}
+        android.view.View{3ee3fc06 V.ED.... ... 0,0-480,38 #102002f android:id/statusBarBackground}

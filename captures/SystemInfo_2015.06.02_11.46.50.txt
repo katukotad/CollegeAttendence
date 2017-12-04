@@ -1,0 +1,35 @@
+Applications Memory Usage (kB):
+Uptime: 3938758 Realtime: 10004410
+
+** MEMINFO in pid 13846 [com.karthik.app.collegeattendence] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     2135     2072        0        0     4548     4206      341
+  Dalvik Heap     2026     1964        0        0     1980     1757      223
+ Dalvik Other      364      348        0        0                           
+        Stack      144      144        0        0                           
+       Ashmem        8        0        0        0                           
+    Other dev        5        0        4        0                           
+     .so mmap      784      120      112        0                           
+    .apk mmap      196        0       24        0                           
+    .ttf mmap       15        0        0        0                           
+    .dex mmap     1732        0     1728        0                           
+    code mmap      964        0      108        0                           
+   image mmap     1042      672        0        0                           
+   Other mmap       18        4        4        0                           
+      Unknown      474      472        0        0                           
+        TOTAL     9907     5796     1980        0     6528     5963      564
+ 
+ Objects
+               Views:       24         ViewRootImpl:        1
+         AppContexts:        3           Activities:        1
+              Assets:        3        AssetManagers:        3
+       Local Binders:        9        Proxy Binders:       14
+    Death Recipients:        0
+     OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
